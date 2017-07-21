@@ -1,5 +1,6 @@
 body {
-  font-family: 'font72666', sans-serif;
+  font-family: 'OceanSansStd-Book'; "Arial"
+  src: url('https://mrt.seetow.com/font/OceanSansStd-Book.eot?#iefix') format('embedded-opentype'),  url('https://mrt.seetow.com/font/OceanSansStd-Book.woff') format('woff'), url('https://mrt.seetow.com/font/OceanSansStd-Book.ttf')  format('truetype'), url('https://mrt.seetow.com/font/OceanSansStd-Book.svg#OceanSansStd-Book') format('svg');
   color: #333;
   font-size: 14px;
   line-height: 1.6;
